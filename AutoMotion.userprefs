@@ -1,12 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AutoMotion\Demo\Scripts\PathMover.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Example.cs">
     <Files>
-      <File FileName="..\..\Unity\Utilities\Assets\Scripts\Utility\Calc.cs" Line="144" Column="16" />
-      <File FileName="Assets\AutoMotion\Scripts\Auto.cs" Line="201" Column="2" />
+      <File FileName="..\..\Unity\Utilities\Assets\Scripts\Utility\Calc.cs" Line="1" Column="1" />
+      <File FileName="Assets\AutoMotion\Scripts\Auto.cs" Line="1" Column="1" />
       <File FileName="..\..\Unity\Utilities\Assets\Scripts\Utility\TransformTweens.cs" Line="1" Column="1" />
-      <File FileName="Assets\AutoMotion\Demo\Scripts\AutoMover.cs" Line="88" Column="66" />
-      <File FileName="Assets\AutoMotion\Demo\Scripts\PathMover.cs" Line="23" Column="43" />
+      <File FileName="Assets\AutoMotion\Demo\Scripts\AutoMover.cs" Line="1" Column="1" />
+      <File FileName="Assets\AutoMotion\Demo\Scripts\PathMover.cs" Line="1" Column="1" />
+      <File FileName="Assets\Example.cs" Line="38" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
